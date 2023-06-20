@@ -20,20 +20,12 @@
                 "name": "Blanda-O'Keefe",
                 "title": "Help Desk Operator"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/5.289f490cebbaef2f5f58.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "710 BOYD DR, Unit #1102, Baton Rouge, LA 70808, USA",
-                "price": 5000
-            },
-            "transaction-history": {
+            
+            "transactionHistory": {
                 "transactionDate": "22/12/2001",
                 "cardNumber": 50380955204220685,
                 "transactionAmount": 5439,
-                "deal_status": "pending"
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 3,
@@ -64,20 +56,12 @@
                 "name": "Aufderhar-Cronin",
                 "title": "Senior Cost Accountant"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/4.1cefc41c08f3161f9c19.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "Lot 21 ROYAL OAK DR, Prairieville, LA 70769, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "1/3/2020",
+           
+            "transactionHistory": {
+                "transactionDate": "1/3/2020",
                 "cardNumber": 45080933234220685,
-                "transaction-Amount": 5428,
-                "deal_status": "cancelled"
+                "transactionAmount": 5428,
+                "dealStatus": "cancelled"
             },
             "review": {
                 "rating": 5,
@@ -111,20 +95,12 @@
                 "name": "Lindgren LLC",
                 "title": "Mechanical Systems Engineer"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/3.c799274c67ecb7c94a70.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": " ",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "15/2/2020",
+           
+            "transactionHistory": {
+                "transactionDate": "15/2/2020",
                 "cardNumber": 60762955204220685,
-                "transaction-Amount": 5650,
-                "deal_status": "closed"
+                "transactionAmount": 5650,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 5,
@@ -155,20 +131,12 @@
                 "name": "Wolff and Sons",
                 "title": "Paralegal"
             },
-            "client_property": {
-                "property_image": "",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "3723 SANDBAR DR, Addis, LA 70710, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "2/7/2019",
+
+            "transactionHistory": {
+                "transactionDate": "2/7/2019",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 3,
@@ -201,20 +169,12 @@
                 "name": "Adams Inc",
                 "title": "Web Developer I"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/2.e5bc3d17749573c2fd3e.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "59345 STONEWALL DR, Plaquemine, LA 70764, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "3/1/2018",
+            
+            "transactionHistory": {
+                "transactionDate": "3/1/2018",
                 "cardNumber": 70380435204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 5,
@@ -245,20 +205,12 @@
                 "name": "D'Amore and Sons",
                 "title": "Civil Engineer"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/1.bfd273967d5b93df7a02.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "10765 Hillshire Ave, Baton Rouge, LA 70810, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "12/3/2020",
+           
+            "transactionHistory": {
+                "transactionDate": "12/3/2020",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 4,
@@ -289,20 +241,12 @@
                 "name": "Schimmel, Wilderman and Orn",
                 "title": "Sales Associate"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/3.c799274c67ecb7c94a70.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "3723 SANDBAR DR, Addis, LA 70710, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "5/5/020",
+          
+            "transactionHistory": {
+                "transactionDate": "5/5/020",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "closed"
+                "transactionAmount": 5439,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 4.5,
@@ -333,20 +277,12 @@
                 "name": "Corkery, Reichert and Hodkiewicz",
                 "title": "Clinical Specialist"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/2.e5bc3d17749573c2fd3e.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "710 BOYD DR, Unit #1102, Baton Rouge, LA 70808, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "22/12/2020",
+           
+            "transactionHistory": {
+                "transactionDate": "22/12/2020",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "closed"
+                "transactionAmount": 5439,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 4,
@@ -377,20 +313,12 @@
                 "name": "Gorczany Group",
                 "title": "Community Outreach Specialist"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/6.e926f8483d02a9e86342.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "5133 MCLAIN WAY, Baton Rouge, LA 70809, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "9/6/2019",
+           
+            "transactionHistory": {
+                "transactionDate": "9/6/2019",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 5,
@@ -421,20 +349,12 @@
                 "name": "Bins Group",
                 "title": "Senior Sales Associate"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/2.e5bc3d17749573c2fd3e.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "59345 STONEWALL DR, Plaquemine, LA 70764, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "7/5/2019",
+          
+            "transactionHistory": {
+                "transactionDate": "7/5/2019",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "cancelled"
+                "transactionAmount": 5439,
+                "dealStatus": "cancelled"
             },
             "review": {
                 "rating": 3,
@@ -465,20 +385,12 @@
                 "name": "Kuhn-Harber",
                 "title": "Account Executive"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/4.1cefc41c08f3161f9c19.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "Lot 21 ROYAL OAK DR, Prairieville, LA 70769, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "1/11/2020",
+           
+            "transactionHistory": {
+                "transactionDate": "1/11/2020",
                 "cardNumber": 9453218204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "closed"
+                "transactionAmount": 5439,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 4.5,
@@ -509,20 +421,12 @@
                 "name": "Goodwin-Skiles",
                 "title": "Developer II"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/2.e5bc3d17749573c2fd3e.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "59345 STONEWALL DR, Plaquemine, LA 70764, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "22/12/2020",
+          
+            "transactionHistory": {
+                "transactionDate": "22/12/2020",
                 "cardNumber": 50380955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 5,
@@ -553,20 +457,12 @@
                 "name": "Casper Inc",
                 "title": "Sales Associate"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/4.1cefc41c08f3161f9c19.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "Lot 21 ROYAL OAK DR, Prairieville, LA 70769, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "2/3/2017",
+          
+            "transactionHistory": {
+                "transactionDate": "2/3/2017",
                 "cardNumber": 80300455254280685,
-                "transaction-Amount": 5439,
-                "deal_status": "cancelled"
+                "transactionAmount": 5439,
+                "dealStatus": "cancelled"
             },
             "review": {
                 "rating": 4,
@@ -597,20 +493,12 @@
                 "name": "Schoen Inc",
                 "title": "Professor"
             },
-            "client_property": {
-                "property_image": "",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "710 BOYD DR, Unit #1102, Baton Rouge, LA 70808, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "6/3/2019",
+          
+            "transactionHistory": {
+                "transactionDate": "6/3/2019",
                 "cardNumber": 85320955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 4,
@@ -641,20 +529,12 @@
                 "name": "Hahn-MacGyver",
                 "title": "Software Test Engineer IV"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/6.e926f8483d02a9e86342.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "5133 MCLAIN WAY, Baton Rouge, LA 70809, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "4/4/2021",
+           
+            "transactionHistory": {
+                "transactionDate": "4/4/2021",
                 "cardNumber": 85320955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "closed"
+                "transactionAmount": 5439,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 5,
@@ -685,20 +565,12 @@
                 "name": "Steuber, Considine and Padberg",
                 "title": "Geological Engineer"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/5.289f490cebbaef2f5f58.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "710 BOYD DR, Unit #1102, Baton Rouge, LA 70808, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "18/10/2020",
+         
+            "transactionHistory": {
+                "transactionDate": "18/10/2020",
                 "cardNumber": 945683255204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "cancelled"
+                "transactionAmount": 5439,
+                "dealStatus": "cancelled"
             },
             "review": {
                 "rating": 4.5,
@@ -729,20 +601,12 @@
                 "name": "Bogisich and Sons",
                 "title": "Operator"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/4.1cefc41c08f3161f9c19.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "Lot 21 ROYAL OAK DR, Prairieville, LA 70769, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "16/12/2020",
+           
+            "transactionHistory": {
+                "transactionDate": "16/12/2020",
                 "cardNumber": 85320955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 3,
@@ -773,20 +637,12 @@
                 "name": "Metz Group",
                 "title": "VP Accounting"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/6.e926f8483d02a9e86342.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "5133 MCLAIN WAY, Baton Rouge, LA 70809, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "2/8/2019",
+           
+            "transactionHistory": {
+                "transactionDate": "2/8/2019",
                 "cardNumber": 38500955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "closed"
+                "transactionAmount": 5439,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 5,
@@ -817,20 +673,12 @@
                 "name": "Bahringer, Auer and Wehner",
                 "title": "Financial Analyst"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/2.e5bc3d17749573c2fd3e.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "710 BOYD DR, Unit #1102, Baton Rouge, LA 70808, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "19/12/2019",
+           
+            "transactionHistory": {
+                "transactionDate": "19/12/2019",
                 "cardNumber": 54290955204297835,
-                "transaction-Amount": 5439,
-                "deal_status": "pending"
+                "transactionAmount": 5439,
+                "dealStatus": "pending"
             },
             "review": {
                 "rating": 3,
@@ -861,20 +709,12 @@
                 "name": "Hoppe Group",
                 "title": "Geologist III"
             },
-            "client_property": {
-                "property_image": "https://hously-react.vercel.app/static/media/6.e926f8483d02a9e86342.jpg",
-                "property_type": [
-                    "resedential",
-                    "commercial"
-                ],
-                "Address": "5133 MCLAIN WAY, Baton Rouge, LA 70809, USA",
-                "price": 5000
-            },
-            "transaction-history": {
-                "transaction-date": "17/2/2020",
+         
+            "transactionHistory": {
+                "transactionDate": "17/2/2020",
                 "cardNumber": 63210955204220685,
-                "transaction-Amount": 5439,
-                "deal_status": "closed"
+                "transactionAmount": 5439,
+                "dealStatus": "closed"
             },
             "review": {
                 "rating": 5,
