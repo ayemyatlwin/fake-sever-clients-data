@@ -18,15 +18,13 @@
             "company": {
                 "department": "Marketing",
                 "name": "Blanda-O'Keefe",
-                "title": "Help Desk Operator"
-            },
-            
-            "transactionHistory": {
+                "title": "Help Desk Operator",
                 "transactionDate": "22/12/2001",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+            
+           
             "review": {
                 "rating": 3,
                 "written": "Great Service with trustable agents"
@@ -54,15 +52,13 @@
                 },
                 "department": "Services",
                 "name": "Aufderhar-Cronin",
-                "title": "Senior Cost Accountant"
-            },
-           
-            "transactionHistory": {
+                "title": "Senior Cost Accountant",
                 "transactionDate": "1/3/2020",
                 "cardNumber": 45080933234220685,
-                "transactionAmount": 5428,
                 "dealStatus": "cancelled"
             },
+           
+           
             "review": {
                 "rating": 5,
                 "written": "The best real estate company I have ever dealt with. Very professional, experienced and helpful agents and brokers. Highly recommend."
@@ -93,15 +89,13 @@
                 },
                 "department": "Marketing",
                 "name": "Lindgren LLC",
-                "title": "Mechanical Systems Engineer"
-            },
-           
-            "transactionHistory": {
+                "title": "Mechanical Systems Engineer",
                 "transactionDate": "15/2/2020",
                 "cardNumber": 60762955204220685,
-                "transactionAmount": 5650,
                 "dealStatus": "closed"
             },
+           
+           
             "review": {
                 "rating": 5,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -129,15 +123,13 @@
                 },
                 "department": "Business Development",
                 "name": "Wolff and Sons",
-                "title": "Paralegal"
-            },
-
-            "transactionHistory": {
+                "title": "Paralegal",
                 "transactionDate": "2/7/2019",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+
+           
             "review": {
                 "rating": 3,
                 "written": "Great Service with trustable agents"
@@ -167,15 +159,14 @@
                 "state": "AZ",
                 "department": "Support",
                 "name": "Adams Inc",
-                "title": "Web Developer I"
-            },
-            
-            "transactionHistory": {
+                "title": "Web Developer I",
                 "transactionDate": "3/1/2018",
                 "cardNumber": 70380435204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+            
+            
+           
             "review": {
                 "rating": 5,
                 "written": "The best real estate company I have ever dealt with. Very professional, experienced and helpful agents and brokers. Highly recommend."
@@ -203,15 +194,13 @@
                 },
                 "department": "Accounting",
                 "name": "D'Amore and Sons",
-                "title": "Civil Engineer"
-            },
-           
-            "transactionHistory": {
+                "title": "Civil Engineer",
                 "transactionDate": "12/3/2020",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+           
+            
             "review": {
                 "rating": 4,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -239,15 +228,13 @@
                 },
                 "department": "Product Management",
                 "name": "Schimmel, Wilderman and Orn",
-                "title": "Sales Associate"
-            },
-          
-            "transactionHistory": {
+                "title": "Sales Associate",
                 "transactionDate": "5/5/020",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "closed"
             },
+          
+            
             "review": {
                 "rating": 4.5,
                 "written": "The best real estate company I have ever dealt with. Very professional, experienced and helpful agents and brokers. Highly recommend."
@@ -275,15 +262,13 @@
                 },
                 "department": "Services",
                 "name": "Corkery, Reichert and Hodkiewicz",
-                "title": "Clinical Specialist"
-            },
-           
-            "transactionHistory": {
-                "transactionDate": "22/12/2020",
+                "title": "Clinical Specialist",
+                 "transactionDate": "22/12/2020",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "closed"
             },
+           
+          
             "review": {
                 "rating": 4,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -311,15 +296,13 @@
                 },
                 "department": "Human Resources",
                 "name": "Gorczany Group",
-                "title": "Community Outreach Specialist"
-            },
-           
-            "transactionHistory": {
+                "title": "Community Outreach Specialist",
                 "transactionDate": "9/6/2019",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+           
+           
             "review": {
                 "rating": 5,
                 "written": "From start to finish, it was an absolute pleasure! From our initial conversations and throughout the whole process, Hously was professional. They were highly knowledgeable about the local market and made sure I always felt like a priority."
@@ -347,15 +330,13 @@
                 },
                 "department": "Marketing",
                 "name": "Bins Group",
-                "title": "Senior Sales Associate"
-            },
-          
-            "transactionHistory": {
+                "title": "Senior Sales Associate",
                 "transactionDate": "7/5/2019",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "cancelled"
             },
+          
+          
             "review": {
                 "rating": 3,
                 "written": "Great Service with trustable agents"
@@ -383,15 +364,13 @@
                 },
                 "department": "Business Development",
                 "name": "Kuhn-Harber",
-                "title": "Account Executive"
-            },
-           
-            "transactionHistory": {
+                "title": "Account Executive",
                 "transactionDate": "1/11/2020",
                 "cardNumber": 9453218204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "closed"
             },
+           
+           
             "review": {
                 "rating": 4.5,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -419,15 +398,12 @@
                 },
                 "department": "Product Management",
                 "name": "Goodwin-Skiles",
-                "title": "Developer II"
-            },
-          
-            "transactionHistory": {
+                "title": "Developer II",
                 "transactionDate": "22/12/2020",
                 "cardNumber": 50380955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+          
             "review": {
                 "rating": 5,
                 "written": "From start to finish, it was an absolute pleasure! From our initial conversations and throughout the whole process, Hously was professional. They were highly knowledgeable about the local market and made sure I always felt like a priority."
@@ -455,15 +431,13 @@
                 },
                 "department": "Research and Development",
                 "name": "Casper Inc",
-                "title": "Sales Associate"
-            },
-          
-            "transactionHistory": {
+                "title": "Sales Associate",
                 "transactionDate": "2/3/2017",
                 "cardNumber": 80300455254280685,
-                "transactionAmount": 5439,
                 "dealStatus": "cancelled"
             },
+          
+         
             "review": {
                 "rating": 4,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -491,15 +465,13 @@
                 },
                 "department": "Sales",
                 "name": "Schoen Inc",
-                "title": "Professor"
-            },
-          
-            "transactionHistory": {
+                "title": "Professor",
                 "transactionDate": "6/3/2019",
                 "cardNumber": 85320955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+          
+           
             "review": {
                 "rating": 4,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -527,15 +499,13 @@
                 },
                 "department": "Marketing",
                 "name": "Hahn-MacGyver",
-                "title": "Software Test Engineer IV"
-            },
-           
-            "transactionHistory": {
+                "title": "Software Test Engineer IV",
                 "transactionDate": "4/4/2021",
                 "cardNumber": 85320955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "closed"
             },
+           
+           
             "review": {
                 "rating": 5,
                 "written": "From start to finish, it was an absolute pleasure! From our initial conversations and throughout the whole process, Hously was professional. They were highly knowledgeable about the local market and made sure I always felt like a priority."
@@ -563,15 +533,13 @@
                 },
                 "department": "Research and Development",
                 "name": "Steuber, Considine and Padberg",
-                "title": "Geological Engineer"
-            },
-         
-            "transactionHistory": {
+                "title": "Geological Engineer",
                 "transactionDate": "18/10/2020",
                 "cardNumber": 945683255204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "cancelled"
             },
+         
+          
             "review": {
                 "rating": 4.5,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
@@ -599,15 +567,13 @@
                 },
                 "department": "Sales",
                 "name": "Bogisich and Sons",
-                "title": "Operator"
-            },
-           
-            "transactionHistory": {
+                "title": "Operator",
                 "transactionDate": "16/12/2020",
                 "cardNumber": 85320955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+           
+          
             "review": {
                 "rating": 3,
                 "written": "Great Service with trustable agents"
@@ -635,15 +601,13 @@
                 },
                 "department": "Support",
                 "name": "Metz Group",
-                "title": "VP Accounting"
-            },
-           
-            "transactionHistory": {
+                "title": "VP Accounting",
                 "transactionDate": "2/8/2019",
                 "cardNumber": 38500955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "closed"
             },
+           
+           
             "review": {
                 "rating": 5,
                 "written": "From start to finish, it was an absolute pleasure! From our initial conversations and throughout the whole process, Hously was professional. They were highly knowledgeable about the local market and made sure I always felt like a priority."
@@ -671,15 +635,13 @@
                 },
                 "department": "Sales",
                 "name": "Bahringer, Auer and Wehner",
-                "title": "Financial Analyst"
-            },
-           
-            "transactionHistory": {
+                "title": "Financial Analyst",
                 "transactionDate": "19/12/2019",
                 "cardNumber": 54290955204297835,
-                "transactionAmount": 5439,
                 "dealStatus": "pending"
             },
+           
+            
             "review": {
                 "rating": 3,
                 "written": "Great Service with trustable agents"
@@ -707,15 +669,13 @@
                 },
                 "department": "Support",
                 "name": "Hoppe Group",
-                "title": "Geologist III"
-            },
-         
-            "transactionHistory": {
+                "title": "Geologist III", 
                 "transactionDate": "17/2/2020",
                 "cardNumber": 63210955204220685,
-                "transactionAmount": 5439,
                 "dealStatus": "closed"
             },
+         
+           
             "review": {
                 "rating": 5,
                 "written": "I recently had the pleasure of working with Hously to purchase a new dream home."
