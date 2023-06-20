@@ -2,10 +2,7 @@
     "client": [
         {
             "id": 1,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Terry",
             "lastName": "Medhurst",
             "email": "atuny0@sohu.com",
@@ -33,14 +30,10 @@
                 "price": 5000
             },
             "transaction-history": {
-                "transaction-date": "22/12/2020",
-                "cardNumber": "50380955204220685",
-                "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "transactionDate": "22/12/2001",
+                "cardNumber": 50380955204220685,
+                "transactionAmount": 5439,
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 3,
@@ -49,10 +42,7 @@
         },
         {
             "id": 2,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Sheldon",
             "lastName": "Quigley",
             "email": "hbingley1@plala.or.jp",
@@ -85,13 +75,9 @@
             },
             "transaction-history": {
                 "transaction-date": "1/3/2020",
-                "cardNumber": "45080933234220685",
+                "cardNumber": 45080933234220685,
                 "transaction-Amount": 5428,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "cancelled"
             },
             "review": {
                 "rating": 5,
@@ -100,10 +86,7 @@
         },
         {
             "id": 3,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Terrill",
             "lastName": "Hills",
             "maidenName": "Hoeger",
@@ -139,13 +122,9 @@
             },
             "transaction-history": {
                 "transaction-date": "15/2/2020",
-                "cardNumber": "60762955204220685",
+                "cardNumber": 60762955204220685,
                 "transaction-Amount": 5650,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 5,
@@ -154,10 +133,7 @@
         },
         {
             "id": 4,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Miles",
             "lastName": "Cummerata",
             "email": "yraigatt3@nature.com",
@@ -190,13 +166,9 @@
             },
             "transaction-history": {
                 "transaction-date": "2/7/2019",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 3,
@@ -205,10 +177,7 @@
         },
         {
             "id": 5,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Mavis",
             "lastName": "Schultz",
             "email": "kmeus4@upenn.edu",
@@ -243,13 +212,9 @@
             },
             "transaction-history": {
                 "transaction-date": "3/1/2018",
-                "cardNumber": "70380435204220685",
+                "cardNumber": 70380435204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 5,
@@ -258,10 +223,7 @@
         },
         {
             "id": 6,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Alison",
             "lastName": "Reichert",
             "email": "jtreleven5@nhs.uk",
@@ -294,13 +256,9 @@
             },
             "transaction-history": {
                 "transaction-date": "12/3/2020",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 4,
@@ -309,10 +267,7 @@
         },
         {
             "id": 7,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Oleta",
             "lastName": "Abbott",
             "email": "dpettegre6@columbia.edu",
@@ -345,13 +300,9 @@
             },
             "transaction-history": {
                 "transaction-date": "5/5/020",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 4.5,
@@ -360,10 +311,7 @@
         },
         {
             "id": 8,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Ewell",
             "lastName": "Mueller",
             "email": "ggude7@chron.com",
@@ -396,13 +344,9 @@
             },
             "transaction-history": {
                 "transaction-date": "22/12/2020",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 4,
@@ -411,10 +355,7 @@
         },
         {
             "id": 9,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Demetrius",
             "lastName": "Corkery",
             "email": "nloiterton8@aol.com",
@@ -447,13 +388,9 @@
             },
             "transaction-history": {
                 "transaction-date": "9/6/2019",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 5,
@@ -462,10 +399,7 @@
         },
         {
             "id": 10,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Eleanora",
             "lastName": "Price",
             "email": "umcgourty9@jalbum.net",
@@ -498,13 +432,9 @@
             },
             "transaction-history": {
                 "transaction-date": "7/5/2019",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "cancelled"
             },
             "review": {
                 "rating": 3,
@@ -513,10 +443,7 @@
         },
         {
             "id": 11,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Marcel",
             "lastName": "Jones",
             "email": "acharlota@liveinternet.ru",
@@ -549,13 +476,9 @@
             },
             "transaction-history": {
                 "transaction-date": "1/11/2020",
-                "cardNumber": "9453218204220685",
+                "cardNumber": 9453218204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 4.5,
@@ -564,10 +487,7 @@
         },
         {
             "id": 12,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Assunta",
             "lastName": "Rath",
             "email": "rhallawellb@dropbox.com",
@@ -600,13 +520,9 @@
             },
             "transaction-history": {
                 "transaction-date": "22/12/2020",
-                "cardNumber": "50380955204220685",
+                "cardNumber": 50380955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 5,
@@ -615,10 +531,7 @@
         },
         {
             "id": 13,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Trace",
             "lastName": "Douglas",
             "email": "lgribbinc@posterous.com",
@@ -651,13 +564,9 @@
             },
             "transaction-history": {
                 "transaction-date": "2/3/2017",
-                "cardNumber": "80300455254280685",
+                "cardNumber": 80300455254280685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "cancelled"
             },
             "review": {
                 "rating": 4,
@@ -666,10 +575,7 @@
         },
         {
             "id": 14,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Enoch",
             "lastName": "Lynch",
             "email": "mturleyd@tumblr.com",
@@ -702,13 +608,9 @@
             },
             "transaction-history": {
                 "transaction-date": "6/3/2019",
-                "cardNumber": "85320955204220685",
+                "cardNumber": 85320955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 4,
@@ -717,10 +619,7 @@
         },
         {
             "id": 15,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Jeanne",
             "lastName": "Halvorson",
             "email": "kminchelle@qq.com",
@@ -753,13 +652,9 @@
             },
             "transaction-history": {
                 "transaction-date": "4/4/2021",
-                "cardNumber": "093284955204220685",
+                "cardNumber": 85320955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 5,
@@ -768,10 +663,7 @@
         },
         {
             "id": 16,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Trycia",
             "lastName": "Fadel",
             "email": "dpierrof@vimeo.com",
@@ -804,13 +696,9 @@
             },
             "transaction-history": {
                 "transaction-date": "18/10/2020",
-                "cardNumber": "945683255204220685",
+                "cardNumber": 945683255204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "cancelled"
             },
             "review": {
                 "rating": 4.5,
@@ -819,10 +707,7 @@
         },
         {
             "id": 17,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Bradford",
             "lastName": "Prohaska",
             "email": "vcholdcroftg@ucoz.com",
@@ -855,13 +740,9 @@
             },
             "transaction-history": {
                 "transaction-date": "16/12/2020",
-                "cardNumber": "034563955204220685",
+                "cardNumber": 85320955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 3,
@@ -870,10 +751,7 @@
         },
         {
             "id": 18,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Arely",
             "lastName": "Skiles",
             "email": "sberminghamh@chron.com",
@@ -906,13 +784,9 @@
             },
             "transaction-history": {
                 "transaction-date": "2/8/2019",
-                "cardNumber": "38500955204220685",
+                "cardNumber": 38500955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 5,
@@ -921,10 +795,7 @@
         },
         {
             "id": 19,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "seller",
             "firstName": "Gust",
             "lastName": "Purdy",
             "email": "bleveragei@so-net.ne.jp",
@@ -957,13 +828,9 @@
             },
             "transaction-history": {
                 "transaction-date": "19/12/2019",
-                "cardNumber": "54290955204297835",
+                "cardNumber": 54290955204297835,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "pending"
             },
             "review": {
                 "rating": 3,
@@ -972,10 +839,7 @@
         },
         {
             "id": 20,
-            "type": [
-                "buyer",
-                "seller"
-            ],
+            "type": "buyer",
             "firstName": "Lenna",
             "lastName": "Renner",
             "email": "aeatockj@psu.edu",
@@ -1008,13 +872,9 @@
             },
             "transaction-history": {
                 "transaction-date": "17/2/2020",
-                "cardNumber": "63210955204220685",
+                "cardNumber": 63210955204220685,
                 "transaction-Amount": 5439,
-                "deal_status": [
-                    "pending",
-                    "closed",
-                    "cancelled"
-                ]
+                "deal_status": "closed"
             },
             "review": {
                 "rating": 5,
